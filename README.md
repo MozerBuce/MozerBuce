@@ -3,7 +3,7 @@
 <h2 align="center"> I'm <strong> Almerino Buce</strong> also known as <strong> Mozer Buce </strong> </h2>
 
 
-### Software Engineer from [Mozambique](https://en.wikipedia.org/wiki/Mozambique) with 3+ years of experience in creating dynamic and responsive web applications and websites. Proficient in front-end technologies such as HTML5, CSS3, JavaScript, Next.js and others, as well as back-end technologies like PHP, Laravel, Ibexa DXP, and others. However, I have a special passion for front-end development. Always seeking for ways to improve my knowledge and grow professionally
+### Software Engineer from [Mozambique](https://en.wikipedia.org/wiki/Mozambique) with 5+ years of experience in creating dynamic and responsive web applications and websites. Proficient in front-end technologies such as HTML5, CSS3, JavaScript, Next.js and others, as well as back-end technologies like PHP, Laravel, Ibexa DXP, and others. However, I have a special passion for front-end development. Always seeking for ways to improve my knowledge and grow professionally
 
 </br>
 
